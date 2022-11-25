@@ -1,6 +1,6 @@
 def is_even(n):
+    print("This is :")
     if n%2 == 0:
-        return True
+        return "Even"
     else:
-        return False
-
+        return "Odd"
