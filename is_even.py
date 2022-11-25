@@ -10,3 +10,7 @@ def push(arr):
     for i in range(len(arr)):
         l.append(arr[i])
     return arr
+
+def fun():
+    print("you ar funny")
+    return 0
