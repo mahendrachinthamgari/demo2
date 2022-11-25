@@ -4,4 +4,3 @@ def is_even(n):
     else:
         return "Odd"
     
-
