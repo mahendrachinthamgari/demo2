@@ -14,3 +14,8 @@ def push(arr):
 def fun():
     print("you ar funny")
     return 0
+
+if __name__ == '__main__':
+    n = int(input("Enter the number :"))
+    print(is_even(n))
+    fun()
